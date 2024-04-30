@@ -1,0 +1,19 @@
+{
+	"modules" : 
+	{
+		"test" : 
+		{
+			"bmi" : "D:/program/logic/cmake-build-debug/CMakeFiles/logic_module.dir/test.ifc",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"test" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles\\logic_module.dir\\test.ifc"
+		}
+	},
+	"usages" : {}
+}

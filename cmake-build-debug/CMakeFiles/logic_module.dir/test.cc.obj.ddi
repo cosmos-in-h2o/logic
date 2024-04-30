@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\logic_module.dir\\test.cc.obj",
+            "outputs": [
+                "D:\\program\\logic\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\logic_module.dir\\test.cc.obj.ddi"
+            ],
+            "requires": [
+                {
+                    "logical-name": "test"
+                }
+            ]
+        }
+    ]
+}

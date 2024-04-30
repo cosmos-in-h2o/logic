@@ -1,0 +1,12 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"test" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles\\logic_module.dir\\test.ifc"
+		}
+	},
+	"usages" : {}
+}

@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/program/logic/cmake-build-debug",
+	"dir-cur-src" : "D:/program/logic",
+	"dir-top-bld" : "D:/program/logic/cmake-build-debug",
+	"dir-top-src" : "D:/program/logic",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"D:/program/logic/cmake-build-debug/CMakeFiles/logic_module.dir"
+	],
+	"module-dir" : "D:/program/logic/cmake-build-debug/CMakeFiles/logic.dir"
+}
