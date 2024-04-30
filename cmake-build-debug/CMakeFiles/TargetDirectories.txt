@@ -1,4 +1,0 @@
-D:/program/logic/cmake-build-debug/CMakeFiles/logic_module.dir
-D:/program/logic/cmake-build-debug/CMakeFiles/logic.dir
-D:/program/logic/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/program/logic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

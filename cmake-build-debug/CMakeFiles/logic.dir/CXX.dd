@@ -1,5 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles\logic.dir\main.cpp.obj: dyndep | CMakeFiles\logic_module.dir\test.ifc
-
-build CMakeFiles\logic.dir\test.cc.obj: dyndep | CMakeFiles\logic_module.dir\test.ifc
-
