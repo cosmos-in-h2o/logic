@@ -1,9 +1,7 @@
 #include <iostream>
-#include <print>
-import test;
+import logicpp;
 int main() {
-    foo f;
-    std::println("hello world{}",f.func());
-    std::cout << "Hello, World!" << std::endl;
+    logicpp::num n=45;
+    std::cout<<n;
     return 0;
 }
