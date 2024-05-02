@@ -1,7 +1,7 @@
-#include <iostream>
 import logicpp;
-int main() {
-    logicpp::num n=45;
+#include <iostream>
+
+int main(){
+    logicpp::num n(10,1);
     std::cout<<n;
-    return 0;
 }

@@ -8,8 +8,11 @@ target_sources(logicpp
         unit/mod.ixx
         unit/eknow.ixx
         unit/num.ixx
+        unit/formula.ixx
 )
+
 target_sources(logicpp
         PRIVATE
         unit/num.cc
+        unit/formula.cc
 )
